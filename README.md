@@ -10,6 +10,8 @@ Here on my GitHub profile you can see all my projects.
 
 In Mobile application development since 2014.
 
-Android : MVVM, Firebase, Retrofit, ComposeUI, Kotlin, Hilt 
-Flutter : BLoC | Firebase
-ReactJS : React Hooks, Redux, MaterialUI 
+**Android** : MVVM, Firebase, Retrofit, ComposeUI, Kotlin, Hilt 
+
+**Flutter** : BLoC | Firebase
+
+**ReactJS** : React Hooks, Redux, MaterialUI 
