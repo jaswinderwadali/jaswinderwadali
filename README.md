@@ -4,6 +4,8 @@
 [![Twitter](https://img.shields.io/twitter/follow/jaswinderwadali?logo=twitter&style=for-the-badge)](https://twitter.com/jaswinderwadali)
 
 
+<a href="https://stackoverflow.com/users/2587027/wadali"><img src="https://stackoverflow.com/users/flair/2587027.png" width="208" height="58" alt="profile for wadali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for wadali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 Application & Front-end Lead  at [Wysa](https://wysa.io)
 
 All of my projects are available at [Repo](https://github.com/jaswinderwadali).  
