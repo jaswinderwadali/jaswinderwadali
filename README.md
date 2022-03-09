@@ -10,7 +10,7 @@
 ### Work 
 Application & Front-end Lead  at [Wysa](https://wysa.io)
 
-<a href='https://play.google.com/store/apps/details?id=bot.touchkin&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="208" height="90" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=bot.touchkin&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img width="222" height="90" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 
 All of my projects are available at [Repo](https://github.com/jaswinderwadali).  
