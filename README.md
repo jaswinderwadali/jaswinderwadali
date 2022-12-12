@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswinder-wadali-4a28707b/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jaswinderwadali)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/wadali)
-[![visitor](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=jaswinderwadali&color=55acb7&style=for-the-badge)](https://github.com/jaswinderwadali/)
 
 ### Stackoverflow 
 <a href="https://stackoverflow.com/users/2587027/wadali"><img src="https://stackoverflow.com/users/flair/2587027.png" width="208" height="58" alt="profile for wadali at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for wadali at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
