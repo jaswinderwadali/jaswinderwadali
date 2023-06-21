@@ -23,7 +23,7 @@ All of my projects are available at [Repo](https://github.com/jaswinderwadali).
 
 
 <h3>Activity</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/jaswinderwadali">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaswinderwadali&theme=radical&show_icons=true&border_radius=10"/>
 </a>
 
