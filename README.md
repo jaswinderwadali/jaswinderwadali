@@ -1,6 +1,6 @@
 ## Jaswinder Wadalli
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswinder-wadali-4a28707b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaswinderwadali)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/jaswinderwadali)
 [![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://g.dev/wadali)
 
@@ -17,9 +17,10 @@ All of my projects are available at [Repo](https://github.com/jaswinderwadali).
 
 **Android** : Jetpack, MVVM, Firebase, Retrofit, Compose, Kotlin, Hilt 
 
+**NodeJS** : Sails.JS | Express.JS 
+
 **Flutter** : BLoC | Firebase
 
-**ReactJS** : React Hooks, Redux, MaterialUI 
 
 
 <h3>Activity</h3>
