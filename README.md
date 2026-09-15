@@ -69,7 +69,13 @@
 ---
 
 
-### 🌐 Connect With Me
+### 🚀 Projects
 
+* **[Learn Punjabi](https://play.google.com/store/apps/details?id=learn.punjabi&hl=en)** — Android app to learn and practice Punjabi, available on the Google Play Store.
+
+---
+  
+### 🌐 Connect With Me
+  
 * 💼 [LinkedIn Profile](https://linkedin.com/in/jaswinderwadali)
-* 📧 Reach me at: [jaswinder.wadali@gmail.com](mailto:jaswinder.wadali@gmail.com)
+*  📧 Reach me at: [jaswinder.wadali@gmail.com](mailto:jaswinder.wadali@gmail.com)
